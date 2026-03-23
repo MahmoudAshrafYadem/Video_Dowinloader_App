@@ -93,7 +93,6 @@ To download videos in 1080p or higher, YouTube separates video and audio tracks.
 
 This software is provided for educational and personal use only. Please respect the Terms of Service of YouTube and copyright laws. The author is not responsible for any misuse of this application.
 
----
 
 ## 📄 License
 
