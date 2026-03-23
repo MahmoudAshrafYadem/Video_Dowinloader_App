@@ -28,8 +28,8 @@ You can use this application in two ways:
 
 ### Option 1: Run the Executable (Recommended for most users)
 
-1.  Go to the **[Releases](https://github.com/MahmoudAshrafYadem/Video_Dowinloader_App/releases)** section of this repository.
-2.  Download the latest `YouTubeDownloader.exe`.
+1.  Go to dist folder
+2.  Download  `YouTubeDownloader.exe`.
 3.  Double-click the file to run it. No installation is needed!
 
 ### Option 2: Run from Source Code
