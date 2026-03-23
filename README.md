@@ -100,10 +100,3 @@ This software is provided for educational and personal use only. Please respect 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-### How to add this to your repo:
-
-1.  Open your repository: [Video_Dowinloader_App](https://github.com/MahmoudAshrafYadem/Video_Dowinloader_App).
-2.  Click **"Add file"** -> **"Create new file"**.
-3.  Name the file `README.md` (make sure to type the name exactly like this).
-4.  Paste the code above into the editor.
-5.  Scroll down and click **"Commit new file"**.
